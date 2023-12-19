@@ -1,2 +1,2 @@
 Hello, Git!
-This is a line from the Main feature_branch
+This is a line from the feature_branch
